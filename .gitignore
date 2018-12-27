@@ -15,4 +15,4 @@ src/main/test/*
 **/java/
 
 #表示在之前的匹配规则下，被命中的文件，可以使用!对前面的规则进行否定
-!/error.log 
+#!/error.log 
